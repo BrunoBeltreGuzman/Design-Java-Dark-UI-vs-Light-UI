@@ -13,6 +13,6 @@ Instrucciones:
 Copie y pegue la Base de Datos "BDUI" en el disco local C (C:/), 
 Para poder guardar las preferencias del usuario
 
-![Image](Screenshot1.png)
+![Image](https://github.com/BrunoBeltreGuzman/Design-Java-Dark-UI-vs-Light-UI/blob/master/Screenshot1%20.png)
 
 ![Image](Screenshot2.png)
