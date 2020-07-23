@@ -15,4 +15,4 @@ Para poder guardar las preferencias del usuario
 
 ![Image](https://github.com/BrunoBeltreGuzman/Design-Java-Dark-UI-vs-Light-UI/blob/master/Screenshot1%20.png)
 
-![Image](Screenshot2.png)
+![Image](https://github.com/BrunoBeltreGuzman/Design-Java-Dark-UI-vs-Light-UI/blob/master/Screenshot2.png)
