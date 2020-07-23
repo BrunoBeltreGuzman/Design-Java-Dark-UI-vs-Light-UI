@@ -13,6 +13,6 @@ Instrucciones:
 Copie y pegue la Base de Datos "BDUI" en el disco local C (C:/), 
 Para poder guardar las preferencias del usuario
 
-![Image]
+![Image](Screenshot1.png)
 
-![Image]
+![Image](Screenshot2.png)
