@@ -7,7 +7,7 @@ GitHub: https://github.com/BrunoBeltreGuzman
 Descripción: 
 Programa en java que, con base de datos Microsoft Access, 
 usando el jdbc ucanaccess de java, es un programa con experiencia de usuario, 
-que contiene interfaz oscura y clara configurable con las preferencias del usuario.
+que contiene una interfaz con dos temas oscuro y claro configurable con las preferencias del usuario.
 
 Instrucciones: 
 Copie y pegue la Base de Datos "BDUI" en el disco local C (C:/), 
